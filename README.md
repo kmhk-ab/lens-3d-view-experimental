@@ -47,3 +47,5 @@ To install this Kubernetes Lens extension, follow these steps:
 
 ### Install to Lens
 For instructions on how to install the extension in Lens, please refer to the official documentation and follow the necessary operations outlined here: [Install the Extension](https://api-docs.k8slens.dev/v6.0.1/extensions/get-started/your-first-extension/#install-the-extension).
+
+**Note:** Extension name is "lens-3d-view-experimental"
