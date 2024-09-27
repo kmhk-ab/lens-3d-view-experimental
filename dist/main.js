@@ -1,0 +1,2 @@
+(()=>{"use strict";var e={600:e=>{e.exports=global.LensExtensions}},t={};function o(s){var n=t[s];if(void 0!==n)return n.exports;var a=t[s]={exports:{}};return e[s](a,a.exports,o),a.exports}var s={};(()=>{var e=s;Object.defineProperty(e,"__esModule",{value:!0});const t=o(600);class n extends t.Main.LensExtension{onActivate(){console.log("threejs-visualization-extension activated")}onDeactivate(){console.log("threejs-visualization-extension deactivated")}}e.default=n})(),module.exports=s})();
+//# sourceMappingURL=main.js.map
